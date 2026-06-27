@@ -1,0 +1,14 @@
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\bin\Debug\net8.0-windows\CybersecurityChatbotGUI.exe
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\bin\Debug\net8.0-windows\CybersecurityChatbotGUI.deps.json
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\bin\Debug\net8.0-windows\CybersecurityChatbotGUI.runtimeconfig.json
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\bin\Debug\net8.0-windows\CybersecurityChatbotGUI.dll
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\bin\Debug\net8.0-windows\CybersecurityChatbotGUI.pdb
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\obj\Debug\net8.0-windows\CybersecurityChatbotGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\obj\Debug\net8.0-windows\CybersecurityChatbotGUI.AssemblyInfoInputs.cache
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\obj\Debug\net8.0-windows\CybersecurityChatbotGUI.AssemblyInfo.cs
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\obj\Debug\net8.0-windows\CybersecurityChatbotGUI.csproj.CoreCompileInputs.cache
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\obj\Debug\net8.0-windows\CybersecurityChatbotGUI.dll
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\obj\Debug\net8.0-windows\refint\CybersecurityChatbotGUI.dll
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\obj\Debug\net8.0-windows\CybersecurityChatbotGUI.pdb
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\obj\Debug\net8.0-windows\CybersecurityChatbotGUI.genruntimeconfig.cache
+C:\Users\DOD\Downloads\CybersecurityChatbotGUI (2)\CybersecurityChatbotGUI\obj\Debug\net8.0-windows\ref\CybersecurityChatbotGUI.dll
